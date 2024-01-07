@@ -37,7 +37,7 @@
 
     ```bash
     poetry run python angel-reyna-crawler/example.py
-        ```
+    ```
 
 ## ✧ Configuration ✧
 
@@ -46,6 +46,3 @@
 ## ✧ License ✧
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-# angel-reyna-rhymes-crawler
