@@ -1,5 +1,5 @@
 
-# ✧ Genius Lyrics Crawler ✧
+# ✧ Find Rhymes ✧
 
 ✧ ✧ ✧ This is a Python script for crawling lyrics and context information from Genius to find rhymes in any language. ✧ ✧ ✧
 
